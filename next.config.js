@@ -1,7 +1,12 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  devIndicators: false
+  devIndicators: false,
+  output: 'export',
+  basePath: '/karte1',
+  images: {
+    unoptimized: true,
+  }
 };
 
-module.exports = nextConfig; 
+module.exports = nextConfig;
