@@ -1,0 +1,14 @@
+To update the favicon with a card symbol (🃏):
+
+1. Create a 32x32 or 64x64 pixel image with a card symbol
+2. Convert it to .ico format using an online converter like https://favicon.io/
+3. Replace the existing favicon.ico file in the public directory
+4. Restart the development server with 'npm run dev'
+
+Alternatively, you can use an emoji favicon by:
+1. Going to https://favicon.io/emoji-favicons/ 
+2. Searching for "playing card" or similar
+3. Downloading the favicon package
+4. Extracting and placing the favicon.ico in the public directory
+
+The title of the website has already been updated from 'Create Next App' to 'Psihologija' in the src/app/layout.tsx file. 

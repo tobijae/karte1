@@ -1,0 +1,167 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+  --neutral-color: #3b82f6;
+  --stay-color: #22c55e;
+  --switch-color: #f97316;
+  --card-back: #1e40af;
+  --card-border: #f8fafc;
+}
+
+.dark {
+  --background: #0a0a0a;
+  --foreground: #ededed;
+  --neutral-color: #3b82f6;
+  --stay-color: #22c55e;
+  --switch-color: #f97316;
+  --card-back: #1e40af;
+  --card-border: #f8fafc;
+}
+
+/* Hide Next.js development indicator */
+#__next-build-watcher,
+[data-nextjs-dialog-overlay],
+[data-nextjs-dialog],
+[data-nextjs-toast],
+[data-nextjs-codeframe] {
+  display: none !important;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
+  /* Prevent text selection */
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: default;
+}
+
+/* Hide the N button in the bottom left corner */
+[class^="vercel-badge"] {
+  display: none !important;
+}
+
+.card {
+  perspective: 1000px;
+  transition: transform 0.3s ease;
+  cursor: pointer;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 0.5rem;
+}
+
+.card.flipped .card-inner {
+  transform: rotateY(180deg);
+}
+
+.card-front, .card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+}
+
+.card-back {
+  background-color: var(--card-back);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid var(--card-border);
+  z-index: 2;
+}
+
+.card-front {
+  background-color: white;
+  color: black;
+  transform: rotateY(180deg);
+  border: 2px solid var(--card-border);
+  justify-content: space-between;
+  z-index: 1;
+}
+
+.group-neutral {
+  color: var(--neutral-color);
+  border-color: var(--neutral-color);
+}
+
+.group-stay {
+  color: var(--stay-color);
+  border-color: var(--stay-color);
+}
+
+.group-switch {
+  color: var(--switch-color);
+  border-color: var(--switch-color);
+}
+
+.bg-neutral {
+  background-color: var(--neutral-color);
+}
+
+.bg-stay {
+  background-color: var(--stay-color);
+}
+
+.bg-switch {
+  background-color: var(--switch-color);
+}
+
+.selected {
+  box-shadow: 0 0 15px 5px rgba(59, 130, 246, 0.5);
+}
+
+@keyframes slideDown {
+  from {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  to {
+    transform: translateY(100px);
+    opacity: 0;
+  }
+}
+
+.slide-down {
+  animation: slideDown 0.8s forwards;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.fade-in {
+  animation: fadeIn 1s forwards;
+}
