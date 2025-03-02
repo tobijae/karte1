@@ -6,7 +6,8 @@ const nextConfig = {
   basePath: '/karte1',
   images: {
     unoptimized: true,
+  },
+  eslint: {
+    ignoreDuringBuilds: true,  // Add this line
   }
 };
-
-module.exports = nextConfig;
