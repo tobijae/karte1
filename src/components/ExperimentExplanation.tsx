@@ -24,7 +24,7 @@ Ta eksperiment uporabi preprosto igro s kartami kot demonstracijo, kako močno l
 Z razdelitvijo udeležencev v tri skupine – nevtralno skupino brez našega vpliva in dve drugi skupini z nasprotnimi nasprotnimi navodili – smo lahko natančno opazovali učinek preprostih verbalnih napotkov na izbire posameznikov. 
 Rezultati, kjer je nevtralna skupina pokazala popolnoma uravnoteženo razdelitev (50/50), medtem ko sta skupini z navodili pokazali močan nagib v smeri predlagane izbire, jasno dokazujejo, kako zunanjost lahko vpliva na nas.
 Širši cilj tega eksperimenta presega zgolj razumevanje vedenja pri igri s kartami – ponuja vpogled v vsakodnevno odločanje, od potrošniških navad do pomembnih življenjskih odločitev. 
-Z razumevanjem, kako skoraj lahko zunanjost 'podzavestno' oblikujejo naše odločitve, lahko postanemo bolj ozaveščeni o vplivih, ki usmerjajo naše izbire.
+Z razumevanjem, kako skoraj lahko zunanjost &apos;podzavestno&apos; oblikujejo naše odločitve, lahko postanemo bolj ozaveščeni o vplivih, ki usmerjajo naše izbire.
 Ta poiskus služi tudi kot učno orodje, ki na preprost in interaktiven način prikaže moč psiholoških vplivov in nas spodbuja k razmišljanju o lastnem procesu odločanja.
             </p>
           </section>
@@ -76,7 +76,7 @@ Ta poiskus služi tudi kot učno orodje, ki na preprost in interaktiven način p
               <div>
                 <h4 className="text-lg font-semibold text-blue-400">Monty Hall problem</h4>
                 <p className="text-gray-300 mt-1">
-                  Eden najbolj znanih eksperimentov, ki demonstrira vpliv dejavnikov na odločanje v situacijah negotovosti, je "Monty Hall problem". Ta problem temelji na ameriškem televizijskem šovu "Let's Make a Deal", kjer tekmovalec izbira med tremi vrati. Za enimi je nagrada (avtomobil), za drugimi dvemi pa ni nagrade (koza). Po izbiri tekmovalca voditelj, ki ve, kje je nagrada, odpre ena od preostalih vrat, za katerimi ni nagrade. Tekmovalec se mora nato odločiti, ali bo ostal pri prvotni izbiri ali zamenjal vrata.
+                  Eden najbolj znanih eksperimentov, ki demonstrira vpliv dejavnikov na odločanje v situacijah negotovosti, je &quot;Monty Hall problem&quot;. Ta problem temelji na ameriškem televizijskem šovu &quot;Let&apos;s Make a Deal&quot;, kjer tekmovalec izbira med tremi vrati. Za enimi je nagrada (avtomobil), za drugimi dvemi pa ni nagrade (koza). Po izbiri tekmovalca voditelj, ki ve, kje je nagrada, odpre ena od preostalih vrat, za katerimi ni nagrade. Tekmovalec se mora nato odločiti, ali bo ostal pri prvotni izbiri ali zamenjal vrata.
                 </p>
                 <p className="text-gray-300 mt-2">
                   Matematično je dokazano, da je verjetnost zmage večja, če tekmovalec zamenja vrata (2/3 namesto 1/3), vendar večina ljudi intuitivno misli, da je verjetnost enaka ne glede na to, ali zamenjajo ali ne. V eksperimentih, ki jih je izvedla psihologinja Marilyn vos Savant leta 1990, je pokazala, da lahko z ustrezno sugestijo bistveno vplivamo na to, ali se bodo ljudje odločili za zamenjavo ali ne – podobno kot v našem eksperimentu s kartami.
@@ -86,7 +86,7 @@ Ta poiskus služi tudi kot učno orodje, ki na preprost in interaktiven način p
               <div>
                 <h4 className="text-lg font-semibold text-blue-400">Aschov eksperiment konformnosti (1951)</h4>
                 <p className="text-gray-300 mt-1">
-                  Solomon Asch je izvedel serijo eksperimentov, ki so pokazali moč socialnega vpliva. Udeleženec je bil postavljen v skupino "sodelavcev" (v resnici igralcev), ki so namenoma podajali očitno napačne odgovore pri preprosti nalogi primerjave dolžine črt. Rezultati so pokazali, da je približno 75% udeležencev vsaj enkrat podalo napačen odgovor, da bi se prilagodili skupini, čeprav je bila pravilna rešitev očitna.
+                  Solomon Asch je izvedel serijo eksperimentov, ki so pokazali moč socialnega vpliva. Udeleženec je bil postavljen v skupino &quot;sodelavcev&quot; (v resnici igralcev), ki so namenoma podajali očitno napačne odgovore pri preprosti nalogi primerjave dolžine črt. Rezultati so pokazali, da je približno 75% udeležencev vsaj enkrat podalo napačen odgovor, da bi se prilagodili skupini, čeprav je bila pravilna rešitev očitna.
                 </p>
                 <p className="text-gray-300 mt-2">
                   To je pomembna vzporednica z našim eksperimentom, saj kaže, kako močno lahko ostali ljudje vplivajo na naše odločitve, tudi ko imamo jasne informacije o pravilni izbiri.
@@ -96,7 +96,7 @@ Ta poiskus služi tudi kot učno orodje, ki na preprost in interaktiven način p
               <div>
                 <h4 className="text-lg font-semibold text-blue-400">Milgramov eksperiment o poslušnosti avtoriteti (1961)</h4>
                 <p className="text-gray-300 mt-1">
-                  Stanley Milgram je raziskoval, kako moč, ki je dodeljena posamezniku vpliva na vedenje posameznikov. Udeleženci so domnevno sodelovali v eksperimentu o učenju, kjer so morali drugemu "udeležencu" (v resnici igralcu) dajati električne šoke za napačne odgovore. Kljub navidezni bolečini "učenca" je 65% udeležencev, zgolj na podlagi verbalnih sugestij raziskovalca v beli halji, dalo celo najhujše, potencialno smrtonosne šoke.
+                  Stanley Milgram je raziskoval, kako moč, ki je dodeljena posamezniku vpliva na vedenje posameznikov. Udeleženci so domnevno sodelovali v eksperimentu o učenju, kjer so morali drugemu &quot;udeležencu&quot; (v resnici igralcu) dajati električne šoke za napačne odgovore. Kljub navidezni bolečini &quot;učenca&quot; je 65% udeležencev, zgolj na podlagi verbalnih sugestij raziskovalca v beli halji, dalo celo najhujše, potencialno smrtonosne šoke.
                 </p>
                 <p className="text-gray-300 mt-2">
                   Ta eksperiment kaže, kako lahko moč dramatično vpliva na vedenje ljudi, podobno kot so v našem eksperimentu enostavna navodila bistveno spremenila odločitve udeležencev.
@@ -104,9 +104,9 @@ Ta poiskus služi tudi kot učno orodje, ki na preprost in interaktiven način p
               </div>
               
               <div>
-                <h4 className="text-lg font-semibold text-blue-400">Langer, Blank in Chanowitz: "Prazne besede" eksperiment (1978)</h4>
+                <h4 className="text-lg font-semibold text-blue-400">Langer, Blank in Chanowitz: &quot;Prazne besede&quot; eksperiment (1978)</h4>
                 <p className="text-gray-300 mt-1">
-                  Ellen Langer in sodelavci so proučevali vpliv utemeljitve na pripravljenost ljudi, da ustrežejo zahtevi. Raziskovalci so poskušali preskočiti vrsto za fotokopiranje z različnimi prošnjami. Ko so uporabili prošnjo brez utemeljitve ("Oprostite, imam 5 strani. Lahko uporabim kopirni stroj?"), je 60% ljudi ugodilo. Ko so dodali pravo utemeljitev ("...ker zamujam"), je ugodilo 94% ljudi. Najpomembneje pa je, da je prošnja s prazno utemeljitvijo ("...ker moram narediti nekaj kopij") dosegla skoraj enak učinek (93%).
+                  Ellen Langer in sodelavci so proučevali vpliv utemeljitve na pripravljenost ljudi, da ustrežejo zahtevi. Raziskovalci so poskušali preskočiti vrsto za fotokopiranje z različnimi prošnjami. Ko so uporabili prošnjo brez utemeljitve (&quot;Oprostite, imam 5 strani. Lahko uporabim kopirni stroj?&quot;), je 60% ljudi ugodilo. Ko so dodali pravo utemeljitev (&quot;...ker zamujam&quot;), je ugodilo 94% ljudi. Najpomembneje pa je, da je prošnja s prazno utemeljitvijo (&quot;...ker moram narediti nekaj kopij&quot;) dosegla skoraj enak učinek (93%).
                 </p>
                 <p className="text-gray-300 mt-2">
                   Ta eksperiment demonstrira, kako že sama oblika besed, ne glede na njeno vsebinsko vrednost, lahko močno vpliva na odločitve – podobno kot je v našem eksperimentu zgolj preprost predlog bistveno spremenil vzorce odločanja.
@@ -127,7 +127,7 @@ Ta poiskus služi tudi kot učno orodje, ki na preprost in interaktiven način p
               <div>
                 <h5 className="font-medium text-blue-400">Medijska manipulacija in informacijski prostor</h5>
                 <p className="text-gray-300 mt-1">
-                  V dobi digitalnih medijev smo stalno izpostavljeni poskusom usmerjanja naših odločitev. Od naslovov novic, oblikovanih za spodbujanje čustvenih odzivov ("clickbaitov"), do algoritmov družbenih omrežij, ki selektivno prikazujejo vsebine, je medijski prostor poln mehanizmov, ki izkoriščajo dovzetnost ljudi in potencialno prodajanje njihovih podatkov. Razumevanje teh mehanizmov nam lahko pomaga kritično presojati medijske vsebine. 
+                  V dobi digitalnih medijev smo stalno izpostavljeni poskusom usmerjanja naših odločitev. Od naslovov novic, oblikovanih za spodbujanje čustvenih odzivov (&quot;clickbaitov&quot;), do algoritmov družbenih omrežij, ki selektivno prikazujejo vsebine, je medijski prostor poln mehanizmov, ki izkoriščajo dovzetnost ljudi in potencialno prodajanje njihovih podatkov. Razumevanje teh mehanizmov nam lahko pomaga kritično presojati medijske vsebine. 
                 </p>
               </div>
               
@@ -148,7 +148,7 @@ Ta poiskus služi tudi kot učno orodje, ki na preprost in interaktiven način p
               <div>
                 <h5 className="font-medium text-blue-400">Zdravje in medicina</h5>
                 <p className="text-gray-300 mt-1">
-                  V zdravstvenem kontekstu način predstavitve informacij (npr. o tveganjih in koristih zdravljenja) bistveno vpliva na odločitve pacientov. Fenomen "placebo učinka" prav tako dokazuje, kako močno lahko sugestija vpliva na fizične izide zdravljenja.
+                  V zdravstvenem kontekstu način predstavitve informacij (npr. o tveganjih in koristih zdravljenja) bistveno vpliva na odločitve pacientov. Fenomen &quot;placebo učinka&quot; prav tako dokazuje, kako močno lahko sugestija vpliva na fizične izide zdravljenja.
                 </p>
               </div>
               
@@ -162,7 +162,7 @@ Ta poiskus služi tudi kot učno orodje, ki na preprost in interaktiven način p
               <div>
                 <h5 className="font-medium text-blue-400">Digitalne tehnologije in spletne platforme</h5>
                 <p className="text-gray-300 mt-1">
-                  Digitalni oblikovalci vse bolj uporabljajo tehnike "nudge" – subtilnih spodbud za določeno vedenje – pri oblikovanju uporabniških vmesnikov. Te tehnike lahko spodbujajo tako pozitivna vedenja (npr. varovanje zasebnosti) kot tudi problematična (npr. prekomerna uporaba aplikacij). 
+                  Digitalni oblikovalci vse bolj uporabljajo tehnike &quot;nudge&quot; – subtilnih spodbud za določeno vedenje – pri oblikovanju uporabniških vmesnikov. Te tehnike lahko spodbujajo tako pozitivna vedenja (npr. varovanje zasebnosti) kot tudi problematična (npr. prekomerna uporaba aplikacij). 
                 </p>
               </div>
               
@@ -181,7 +181,7 @@ Ta poiskus služi tudi kot učno orodje, ki na preprost in interaktiven način p
             
             <h4 className="text-lg font-semibold mt-6 mb-2">Zaključna misel</h4>
             <p className="text-gray-300">
-              Ta navidezno preprost eksperiment s kartami razkriva temeljno lastnost človeškega odločanja – kako zlahka se nas da zmanipulirati. V svetu, kjer se tehnike vplivanja nenehno izpopolnjujejo in postajajo vse bolj prefinjene, je razumevanje teh mehanizmov ključno za ohranjanje osebnega 'prostora' in spodbujanje zdrave družbene dinamike. 
+              Ta navidezno preprost eksperiment s kartami razkriva temeljno lastnost človeškega odločanja – kako zlahka se nas da zmanipulirati. V svetu, kjer se tehnike vplivanja nenehno izpopolnjujejo in postajajo vse bolj prefinjene, je razumevanje teh mehanizmov ključno za ohranjanje osebnega &apos;prostora&apos; in spodbujanje zdrave družbene dinamike. 
             </p>
           </section>
         </div>
@@ -198,4 +198,4 @@ Ta poiskus služi tudi kot učno orodje, ki na preprost in interaktiven način p
       </div>
     </div>
   );
-} 
+}
